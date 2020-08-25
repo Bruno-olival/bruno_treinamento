@@ -1,3 +1,5 @@
+# Código do Thiago
+
 Dado("que eu esteja na tela de login") do
     visit 'https://tradersclub.com.br/'
 end

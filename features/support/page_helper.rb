@@ -17,5 +17,9 @@ module PageObjects
         login = Login.new
     end
 
+    def canal
+        canal = Canal.new
+    end
+
 
 end 
